@@ -18,7 +18,7 @@ The economic crisis in Zimbabwe has severely impacted the healthcare system, lea
 
 4. Random Forest
   
-5. Gradient Boosting
+5. Gradient Boosting (XGBoost)
 
 ## Comparative Analysis
 
